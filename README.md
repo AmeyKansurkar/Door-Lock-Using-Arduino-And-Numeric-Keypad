@@ -10,4 +10,4 @@
 
 5. These locking systems are controlled by a keypad and are installed at the side hedge of the door.
 
-* By using Arduino UNO, Keypad and Servo motor, baby latch we can solve the problem and security will become more strong.
+6. By using Arduino UNO, Keypad and Servo motor, baby latch we can solve the problem and security will become more strong.
